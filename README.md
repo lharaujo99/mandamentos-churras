@@ -10,3 +10,5 @@ Olá! Bem ao código do churras, onde as regras são bem claras
 
 - **Talarico morre cedo**
 
+- **Calmou** 
+
